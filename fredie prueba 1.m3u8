@@ -7,245 +7,138 @@ https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/
 #EXTINF:-1 group-title="GUATEMALA",Canal 7
 #EXTVLCOPT:https://mi.tv/gt/canales/televisiete
 https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/ts:abr.m3u8
-#EXTINF:36,3ABN Latino
+#EXTINF:-1 group-title="RELIGIOSO",3AB LATINO
 #EXTVLCOPT:network-caching=1000
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
-#EXTINF:0,4DmásNoticias TV (1080p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
-#EXTINF:0,5TV Corrientes (480p) [Not 24/7]
+#EXTINF:-1 group-title="NOTICIAS",5tv Corrientes
 #EXTVLCOPT:network-caching=1000
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:0,6 Wise Tv (720p)
+#EXTINF:-1 group-title="PELICULAS",WISE TV
 #EXTVLCOPT:network-caching=1000
 https://live.enhdtv.com:8081/8150/index.m3u8
-#EXTINF:0,7 TeleValencia (576p)
+#EXTINF:-1 group-title="ESPAÑA",TELE VALENCIA
 #EXTVLCOPT:network-caching=1000
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-#EXTINF:0,8 La Marina TV (576p)
+#EXTINF:-1 group-title="ESPAÑA",LA MARINA
 #EXTVLCOPT:network-caching=1000
 https://streaming005.gestec-video.com/hls/canal24.m3u8
-#EXTINF:0,8NTV (1080p)
+#EXTINF:-1 group-title="MEXICO",8NTV
 #EXTVLCOPT:network-caching=1000
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
-#EXTINF:0,9 la Loma TV (1080p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://9laloma.tv/live.m3u8
-#EXTINF:0,12tv
-#EXTVLCOPT:http-referrer=https://www.12tv.es/
-#EXTVLCOPT:network-caching=1000
-https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
-#EXTINF:0,13C (1080p)
+#EXTINF:-1 group-title="CULTURA",CANAL 13 CULTURA
 #EXTVLCOPT:network-caching=1000
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:0,13 Entretención (720p)
-#EXTVLCOPT:network-caching=1000
-https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:0,13 Festival (1080p)
+#EXTINF:-1 group-title="MUSICA",13 FESTIVAL
 #EXTVLCOPT:network-caching=1000
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:0,13 Humor (1080p)
+#EXTINF:-1 group-title="TODA LA FAMILIA",13 HUMOR
 #EXTVLCOPT:network-caching=1000
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
-#EXTINF:0,13 Kids (1080p)
+#EXTINF:-1 group-title="TODA LA FAMILIA",13 KIDS
 #EXTVLCOPT:network-caching=1000
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:0,13Max Televisión (1080p)
+#EXTINF:-1 group-title="ARGENTINA",13 MAX TELEVISION
 #EXTVLCOPT:network-caching=1000
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-#EXTINF:0,13 Prime (720p)
-#EXTVLCOPT:network-caching=1000
-https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
-#EXTINF:0,13 Realities (1080p)
+#EXTINF:-1 group-title="TODA LA FAMILIA",13 REALITIES
 #EXTVLCOPT:network-caching=1000
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:0,13 Teleseries (720p)
+#EXTINF:-1 group-title="TODA LA FAMILIA",13 TELESERIES
 #EXTVLCOPT:network-caching=1000
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:0,15TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="MEXICO",15 TV
 #EXTVLCOPT:network-caching=1000
 https://cdn.fastocloud.com/leonel.m3u8
-#EXTINF:0,24/7 Canal de Noticias
+#EXTINF:-1 group-title="NOTICIAS", CANAL DE NOTICIAS 24/7
 #EXTVLCOPT:network-caching=1000
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
-#EXTINF:0,24 Horas (1080p)
+#EXTINF:-1 group-title="NOTICIAS",24/7 ESPAÑA
 #EXTVLCOPT:network-caching=1000
 https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
-#EXTINF:0,24 Horas Internacional
-#EXTVLCOPT:network-caching=1000
-https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
-#EXTINF:0,45 TV (720p)
-#EXTVLCOPT:network-caching=1000
-https://stream.alojamientowebgt.com:3656/live/tv45live.m3u8
-#EXTINF:0,88 Stereo (720p) [Not 24/7]
+#EXTINF:-1 group-title="MUSICA",88 ESTEREO
 #EXTVLCOPT:network-caching=1000
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:0,101tv Antequera
+#EXTINF:-1 group-title="PELICULAS",ANTEQUERA
 #EXTVLCOPT:http-referrer=https://www.101tv.es/antequera/
-#EXTVLCOPT:network-caching=1000
 https://www.streaming101tv.es:19360/antequera/antequera.m3u8
-#EXTINF:0,101tv Axarquia (480p)
-#EXTVLCOPT:network-caching=1000
-https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8
-#EXTINF:0,101tv Cádiz (1080p)
-#EXTVLCOPT:network-caching=1000
-https://streaming101tv.es:19360/cadiz/cadiz.m3u8
-#EXTINF:0,101tv Malaga
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-#EXTVLCOPT:network-caching=1000
-https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
-#EXTINF:0,101tv Ronda (1080p)
-#EXTVLCOPT:network-caching=1000
-https://streaming101tv.es/hls/webronda.m3u8
-#EXTINF:0,101tv Sevilla
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-#EXTVLCOPT:network-caching=1000
-https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
-#EXTINF:0,360 RFTV (576p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
-#EXTINF:0,504 TV (720p)
-#EXTVLCOPT:network-caching=1000
-https://mediacp.us:8081/504tvhn/index.m3u8
-#EXTINF:0,¡OPA! (1080i) [Geo-blocked]
+#EXTINF:-1 group-title="COSTA RICA",OPA
 #EXTVLCOPT:network-caching=1000
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
-#EXTINF:0,A24 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
-#EXTINF:0,A Punt
-#EXTVLCOPT:network-caching=1000
-https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
-#EXTINF:0,A&R Canal Adventista (720p)
+#EXTINF:-1 group-title="RELIGIOSO",A & R ADVENTISTA
 #EXTVLCOPT:network-caching=1000
 http://51.222.9.192:3589/stream/play.m3u8
-#EXTINF:0,A+ Guate (720p)
-#EXTVLCOPT:network-caching=1000
-https://ch2-tva.duin.dev/hls/stream.m3u8
-#EXTINF:0,ABC-TV Paraguay (720p)
-#EXTVLCOPT:network-caching=1000
-https://cdn.jwplayer.com/live/broadcast/GQagSggs.mpd
-#EXTINF:0,Abya Yala TV
-#EXTVLCOPT:network-caching=1000
-https://seo.tv.bo/tv/LIpSEO-TV-8.m3u8
-#EXTINF:0,Access Media Productions Channel (720p)
-#EXTVLCOPT:network-caching=1000
-https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch1/video.m3u8
-#EXTINF:0,Access Media Productions Community Channel (720p)
-#EXTVLCOPT:network-caching=1000
-https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8
-#EXTINF:0,Access Media Productions Marina TV (720p)
-#EXTVLCOPT:network-caching=1000
-https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8
-#EXTINF:0,Access Media Productions Monterey Channel (720p)
-#EXTVLCOPT:network-caching=1000
-https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch3/video.m3u8
-#EXTINF:0,Access Media Productions Peninsula Channel (720p)
-#EXTVLCOPT:network-caching=1000
-https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8
-#EXTINF:0,Acento TV
+#EXTINF:-1 group-title="RELIGIOSO",ACENTO TV
 #EXTVLCOPT:http-referrer=https://acentotv01.streamprolive.com/i/cp/hls/player.html
 #EXTVLCOPT:network-caching=1000
 https://acentotv01.streamprolive.com/hls/live.m3u8
-#EXTINF:0,ACS Network (480p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
-#EXTINF:0,Activa TV (720p)
+#EXTINF:-1 group-title="MUSICA",ACTIVA
 #EXTVLCOPT:network-caching=1000
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:0,ADN 40 (720p)
+#EXTINF:-1 group-title="CULTURA",ADN 40
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:0,Adoram TV (720p)
+#EXTINF:-1 group-title="RELIGIOSO",ADORAM
 #EXTVLCOPT:network-caching=1000
 https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
-#EXTINF:0,AE Radio TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="MUSICA",AE RADIO 24/7
 #EXTVLCOPT:network-caching=1000
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
-#EXTINF:0,Afizzionados (576p)
-#EXTVLCOPT:network-caching=1000
-https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
-#EXTINF:0,AFV en Español (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
-#EXTINF:0,Agape TV (720p)
-#EXTVLCOPT:network-caching=1000
-https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
-#EXTINF:0,Agenda 56 TV [Not 24/7]
+#EXTINF:-1 group-title="PELICULAS",AGENDA 56
 #EXTVLCOPT:network-caching=1000
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
-#EXTINF:0,Agrotendencia TV (1080p)
-#EXTVLCOPT:network-caching=1000
-https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-#EXTINF:0,Aguacate TV (1080p)
+#EXTINF:-1 group-title="PELICULAS",AGUACATE TV
 #EXTVLCOPT:network-caching=1000
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
-#EXTINF:0,Ahora TV (720p)
+#EXTINF:-1 group-title="NOTICIAS",AHORA TV
 #EXTVLCOPT:network-caching=1000
 https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
-#EXTINF:0,AION TV (1080p)
+#EXTINF:-1 group-title="PELICULAS",AION TV
 #EXTVLCOPT:network-caching=1000
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
-#EXTINF:0,Aire de Santa Fe (1080p)
+#EXTINF:-1 group-title="NOTICIAS",AIRE DE SANTA FE
 #EXTVLCOPT:network-caching=1000
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-#EXTINF:0,Alacantí TV (576p) [Not 24/7]
+#EXTINF:-1 group-title="PELICULAS",ALACANTI TV
 #EXTVLCOPT:network-caching=1000
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
-#EXTINF:0,Alcance TV (720p)
+#EXTINF:-1 group-title="PELICULAS",ALCANCE TV
 #EXTVLCOPT:network-caching=1000
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
-#EXTINF:0,Alcance TV
-#EXTVLCOPT:network-caching=1000
-https://videolatam.com:3516/live/tjjqdqurlive.m3u8
-#EXTINF:0,Alcarria TV (576p) [Not 24/7]
+#EXTINF:-1 group-title="NOTICIAS",ALCARRIA TV
 #EXTVLCOPT:network-caching=1000
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:0,Alcarrizos TV (720p)
+#EXTINF:-1 group-title="PELICULAS",ALCARRIZOS TV
 #EXTVLCOPT:network-caching=1000
 https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
-#EXTINF:0,Alegre TV (720p)
-#EXTVLCOPT:network-caching=1000
-https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
-#EXTINF:0,Alfa & Omega Vision (480p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://srv.panelcast.net/dorian/dorian/playlist.m3u8
-#EXTINF:0,Aliento Vision (720p) [Not 24/7]
+#EXTINF:-1 group-title="RELIGIOSO",ALIENTO TV
 #EXTVLCOPT:network-caching=1000
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
-#EXTINF:0,Alsacias Televisión (ATV | Canal 28) (720p)
+#EXTINF:-1 group-title="TODA LA FAMILIA",ALSACIAS TV
 #EXTVLCOPT:network-caching=1000
 https://s.emisoras.tv:8081/atv/index.m3u8
-#EXTINF:0,Altanto TV (720p)
+#EXTINF:-1 group-title="PELICULAS",ALTANTO TV
 #EXTVLCOPT:network-caching=1000
 https://streaming.altantotv.domiplay.net/hls/0/stream.m3u8
-#EXTINF:0,Alterna TV (720p)
-#EXTVLCOPT:network-caching=1000
-https://alternatv.ar/stream/hls/live.m3u8
-#EXTINF:0,Ame 47 (576p)
+#EXTINF:-1 group-title="PELICULAS",AMÉTV
 #EXTVLCOPT:network-caching=1000
 https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
-#EXTINF:0,América Estéreo Guayaquil (360p)
+#EXTINF:-1 group-title="MUSICA",AMERICA ESTEREO
 #EXTVLCOPT:network-caching=1000
 https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
-#EXTINF:0,América Estéreo Ibarra (720p)
+#EXTINF:-1 group-title="MUSICA",AMERICA ESTEREO IBARRA
 #EXTVLCOPT:network-caching=1000
 https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
-#EXTINF:0,América Estéreo Quito (1080p)
-#EXTVLCOPT:network-caching=1000
-https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
-#EXTINF:0,América Estéreo Tulcán (614p)
+#EXTINF:-1 group-title="MUSICA",ESTEREO TULCAN
 #EXTVLCOPT:network-caching=1000
 https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
-#EXTINF:0,América TeVé (1080p)
+#EXTINF:-1 group-title="TODA LA FAMILIA",AMERICA TV
 #EXTVLCOPT:network-caching=1000
 https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:0,America TV (720p)
+#EXTINF:-1 group-title="TODA LA FAMILIA",AMERICA TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:0,Amigos TV Chiquimula (480p)
+#EXTINF:-1 group-title="GUATEMALA",Amigos Tv Chiquimula
 #EXTVLCOPT:network-caching=1000
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
 #EXTINF:0,AMX Noticias (720p) [Not 24/7]
@@ -401,7 +294,7 @@ https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 #EXTINF:0,Azteca 7 (720p) [Geo-blocked]
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:0,Azteca Guate (1080p)
+#EXTINF:-1 group-title="Guatemala",Azteca Guate
 #EXTVLCOPT:network-caching=1000
 https://channel1-tva.duin.dev/tv/streaming/2/stream.m3u8
 #EXTINF:0,Azteca Honduras (720p)
@@ -6008,6 +5901,7 @@ https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20M
 #EXTINF:0,Las aventuras de los Super Hermanos Mario - E26 La Amenaza Venecia
 #EXTVLCOPT:network-caching=1000
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2026%20-%20La%20Amenaza%20Venecia.mp4
+
 
 
 
