@@ -403,7 +403,7 @@ https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:0,Azteca Guate (1080p)
 #EXTVLCOPT:network-caching=1000
-https://ch1-tva.duin.dev/hls/stream.m3u8
+https://channel1-tva.duin.dev/tv/streaming/2/stream.m3u8
 #EXTINF:0,Azteca Honduras (720p)
 #EXTVLCOPT:network-caching=1000
 https://dvrfl03.bozztv.com/hondu-azteca/index.m3u8
@@ -6008,6 +6008,7 @@ https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20M
 #EXTINF:0,Las aventuras de los Super Hermanos Mario - E26 La Amenaza Venecia
 #EXTVLCOPT:network-caching=1000
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2026%20-%20La%20Amenaza%20Venecia.mp4
+
 
 
 
