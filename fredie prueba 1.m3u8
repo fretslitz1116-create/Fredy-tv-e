@@ -297,13 +297,13 @@ https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u
 #EXTINF:-1 group-title="INFANTIL",DISNEY CHANNEL LATINO
 #EXTVLCOPT:https://www.soy502.com/sites/default/files/styles/escalar_image_inline/public/2024/Dic/03/captura_de_pantalla_2024-12-03_a_las_8.13.14_a._m.png
 http://201.217.246.177:8000/play/a02r/index.m3u8
-#EXTINF:-1 group-title="INFANTIL",XTREMA ACCION
+#EXTINF:-1 group-title="PELICULAS",XTREMA ACCION
 #EXTVLCOPT:https://www.cxtv.com.br/img/Tvs/Logo/webp-l/16f8ed90cfdce23eb93131280ab06426.webp
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS",CINE XOXO
 #EXTVLCOPT:https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2024/05/30/PLUTOCineXOXO_Channel_1080x1080_HeroSquare-srcdbued.png
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7
-#EXTINF:-1 group-title="INFANTIL",CINE TERROR
+#EXTINF:-1 group-title="PELICULAS",CINE TERROR
 #EXTVLCOPT:https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/featuredImage_1730472486481.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="INFANTIL",DIOS TV KIDS
@@ -342,5 +342,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1
 #EXTINF:-1 group-title="INFANTIL",NICKELODEON
 #EXTVLCOPT:https://images.pluto.tv/channels/645952687cb4b100084ed52e/featuredImage_1755273609270.jpg
 http://179.51.136.19:8000/play/a0q4/index.m3u8?utc=1765122263&lutc=1765122759
+#EXTINF:-1 group-title="PELICULAS",CINE ADRENALINA
+#EXTVLCOPT:https:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3ziueD51rBWLzjEPMpvxyw-elo_8CturHeQ&s
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+
 
 
