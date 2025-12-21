@@ -363,6 +363,19 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 #EXTINF:-1 group-title="TODA LA FAMILIA",REAL MADRID TV
 #EXTVLCOPT:https://yt3.googleusercontent.com/TyNbisxuIwzUBjjNkUg8mOqR9_L2eKYShayM5A-kjpFeb0p47QCail4wuUn5KfCbDmB8yQ8RnD4=s900-c-k-c0x00ffffff-no-rj
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="TODA LA FAMILIA",BABY SHARK 24/7
+#EXTVLCOPT:https:https://www.usatoday.com/story/life/allthemoms/2019/06/05/baby-shark-tv-show-works-nickelodeon-partnership-pingfong/1351488001/
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="TODA LA FAMILIA",TELEMUNDO ACCIÓN
+#EXTVLCOPT:https://image.xumo.com/v1/channels/channel/99991748/600x337.webp?type=channelTile
+https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/45de87db-a83b-4195-b1d6-5e9e473d4157/4.m3u8
+#EXTINF:-1 group-title="TODA LA FAMILIA",CNN EN ESPAÑOL
+#EXTVLCOPT:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBcOnrsh5QGdjg-ZomYXGo6kh9xF1U_0p5vw&s
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="TODA LA FAMILIA",ESTRELLA TV
+#EXTVLCOPT:https://yt3.googleusercontent.com/fdo57PnjxxWE0yQb5DFROoXfjYaIkQSQLXyZL5E9_dURm_uvfmqKS7HW33uzMT82AKQFsi90tCQ=s900-c-k-c0x00ffffff-no-rj
+https://estrellatv-plex.amagi.tv/playlistR1080p.m3u8
+
 
 
 
