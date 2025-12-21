@@ -9,7 +9,7 @@ https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/
 https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/ts:abr.m3u8
 #EXTINF:-1 group-title="GUATEMALA",Canal 27
 #EXTVLCOPT:https://es.wikipedia.org/wiki/Canal_27_%28Guatemala%29
-https://ch1-c27.duin.dev/hls/0/stream.m3u8
+https://smmc.me:5443/hls/stream.m3u8
 #EXTINF:-1 group-title="GUATEMALA",A+GUATE
 #EXTVLCOPT:network-caching=1000
 https://channel2-tva.duin.dev/tv/streaming/2/stream.m3u8
@@ -375,6 +375,7 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist108
 #EXTINF:-1 group-title="TODA LA FAMILIA",ESTRELLA TV
 #EXTVLCOPT:https://yt3.googleusercontent.com/fdo57PnjxxWE0yQb5DFROoXfjYaIkQSQLXyZL5E9_dURm_uvfmqKS7HW33uzMT82AKQFsi90tCQ=s900-c-k-c0x00ffffff-no-rj
 https://estrellatv-plex.amagi.tv/playlistR1080p.m3u8
+
 
 
 
