@@ -378,8 +378,9 @@ https://estrellatv-plex.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="TODA LA FAMILIA",BIN SPORT
 #EXTVLCOPT:
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/53f34ad3-21d7-4795-978e-aac608124c67/2.m3u8
-#EXTINF:-1 group-title="TODA LA FAMILIA",Vision TV
-#EXTVLCOPT:https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1 group-title="TGUATEMALA",Vision TV
+#EXTVLCOPT:
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 group-title="GUATEMALA",TV FLORENCIA
 #EXTVLCOPT:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ddLVnW9Lm7Bipq9VZjP9vw6qksZocAvndQ&s
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
