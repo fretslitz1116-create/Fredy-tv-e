@@ -396,5 +396,6 @@ https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
 #EXTINF:-1 group-title="GUATEMALA",MULTIVISION SPORTS
 #EXTVLCOPT:
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
-
-
+#EXTINF:-1 group-title="DEPORTES",Madrid VS Mallorca
+#EXTVLCOPT:
+https://bd2ih.envivoslatam.org/hotflix/dsports/index.m3u8?token=ff2bb82d3b63b37b686f7156ec48450a739028c9-ac-1775360165-1775306165&ip=190.106.213.246
