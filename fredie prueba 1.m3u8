@@ -3,16 +3,19 @@
 https://guastream.com:3172/stream/play.m3u8
 #EXTINF:-1 group-title="GUATEMALA",TN23
 #EXTVLCOPT:https:https://www.youtube.com/channel/UCJcN367ge_Yo1p7b20_KSaA
-https://d2qsan2ut81n2k.cloudfront.net/live/0fa8c94f-fc47-466d-beda-8fc43bf963d7/ts:abr.m3u8
+https://guastream.com:3249/stream/play.m3u8
 #EXTINF:-1 group-title="GUATEMALA",Canal 7
 #EXTVLCOPT:https://mi.tv/gt/canales/televisiete
-https://d2qsan2ut81n2k.cloudfront.net/live/ce4f4915-0383-4e38-834b-6aca224d028e/ts:abr.m3u8
+https://guastream.com:3695/stream/play.m3u8
 #EXTINF:-1 group-title="GUATEMALA",Canal 27
 #EXTVLCOPT:https://es.wikipedia.org/wiki/Canal_27_%28Guatemala%29
 https://smmc.me:5443/hls/stream.m3u8
 #EXTINF:-1 group-title="GUATEMALA",A+GUATE
 #EXTVLCOPT:network-caching=1000
-https://channel2-tva.duin.dev/tv/streaming/2/stream.m3u8
+https://5ca9af4645e15.streamlock.net/antigua/videoantigua/chunklist_w662410708.m3u8
+#EXTINF:-1 group-title="GUATEMALA",GUATEVISION
+#EXTVLCOPT:https://es.wikipedia.org/wiki/Canal_27_%28Guatemala%29
+https://guastream.com:3091/stream/play.m3u8
 #EXTINF:-1 group-title="RELIGIOSO",3AB LATINO
 #EXTVLCOPT:network-caching=1000
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
