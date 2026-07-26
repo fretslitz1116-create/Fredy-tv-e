@@ -10,9 +10,6 @@ https://guastream.com:3695/stream/play.m3u8
 #EXTINF:-1 group-title="GUATEMALA",Canal 27
 #EXTVLCOPT:https://es.wikipedia.org/wiki/Canal_27_%28Guatemala%29
 https://smmc.me:5443/hls/stream.m3u8
-#EXTINF:-1 group-title="GUATEMALA",A+GUATE
-#EXTVLCOPT:network-caching=1000
-https://5ca9af4645e15.streamlock.net/antigua/videoantigua/chunklist_w662410708.m3u8
 #EXTINF:-1 group-title="GUATEMALA",GUATEVISION
 #EXTVLCOPT:https://es.wikipedia.org/wiki/Canal_27_%28Guatemala%29
 https://guastream.com:3091/stream/play.m3u8
